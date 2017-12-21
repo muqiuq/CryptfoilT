@@ -1,0 +1,14 @@
+{
+  "BTC": {
+    "altname": "btceur",
+    "altname_f": false,
+    "buyprice": 100,
+    "amount": 1,
+    "left": "EUR",
+    "right": "BTC",
+    "via": false,
+    "address": "",
+    "info": "",
+    "exchange": "bitstamp"
+  }
+}
