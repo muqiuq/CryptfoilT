@@ -19,4 +19,5 @@ CryptofoilT supports the following exchanges:
 - HitBTC
 
 ## Licence
-Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+http://creativecommons.org/licenses/by-nc-sa/4.0/
