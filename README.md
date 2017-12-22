@@ -18,6 +18,19 @@ CryptofoilT supports the following exchanges:
 - Kraken
 - HitBTC
 
+## Quick Start
+- Clone git
+- Adjust portfolio.json
+- Run php cft.php
+
+## CLI Options
+```
+-s=<> --sort=<>   Sort DESC for this column
+-n                Do not sort
+--columns         Display available columns
+--offline         Don't access tickers online
+```
+
 ## Licence
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 http://creativecommons.org/licenses/by-nc-sa/4.0/
