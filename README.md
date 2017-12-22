@@ -5,10 +5,10 @@ Da ich keinen passenden Portfoliomanager für Crytowährungen gefunden habe, ent
 Die Codequalität lässt zu wünschen übrig. Ursache ist klassisch: "Ich programmier noch schnell..."
 
 ## Functions
-- Load Portfolio from a json file
-- Calculate Total, Absolute, Relative Change
-- Calculate Total Value of Portfolio
-- Sort Portfolio
+- Load portfolio from a json file
+- Calculate total, absolute, relative Change
+- Calculate total value of portfolio
+- Sort portfolio
 
 ## Exchanges
 
